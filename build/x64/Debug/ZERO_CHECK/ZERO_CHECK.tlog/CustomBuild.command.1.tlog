@@ -1,0 +1,10 @@
+^D:\DEV\CPLUSPLUS\NHAT_GLFW_CMAKE_A\BUILD\CMAKEFILES\C02A7DC9279C12C61223E76B724450E6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/dev/Cplusplus/Nhat_GLFW_Cmake_A -BD:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/IMgui_A.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

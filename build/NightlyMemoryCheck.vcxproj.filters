@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\dev\Cplusplus\Nhat_GLFW_Cmake_A\build\CMakeFiles\c02a7dc9279c12c61223e76b724450e6\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\dev\Cplusplus\Nhat_GLFW_Cmake_A\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\dev\Cplusplus\Nhat_GLFW_Cmake_A\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F263B7EC-C430-3B28-9874-B670EAB8BEEA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

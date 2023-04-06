@@ -1,0 +1,9 @@
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/Experimental.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/Nightly.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/Continuous.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/IMgui_A.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/PACKAGE.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/RUN_TESTS.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/ALL_BUILD.dir
+D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/ZERO_CHECK.dir

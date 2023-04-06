@@ -1,0 +1,10 @@
+^D:\DEV\CPLUSPLUS\NHAT_GLFW_CMAKE_A\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/dev/Cplusplus/Nhat_GLFW_Cmake_A -BD:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build --check-stamp-file D:/dev/Cplusplus/Nhat_GLFW_Cmake_A/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
